@@ -23,6 +23,6 @@ Progresso de hoje : Realizado determinada tarefa e lido sobre X.
 
 Agradecimento especial ao [Salumão Costa](https://github.com/salubcosta) e ao algoritmo do twitter que me indicaram este desafio.
 
-Link do repo original: [Aqui](https://github.com/kallaway/100-days-of-code)
-Regras: [Aqui](https://github.com/kallaway/100-days-of-code/blob/master/rules.md)
+Link do repo original: [Aqui](https://github.com/kallaway/100-days-of-code)  
+Regras: [Aqui](https://github.com/kallaway/100-days-of-code/blob/master/rules.md)  
 Me segue no Twitter: [@_drlln](https://twitter.com/_drlln)
